@@ -1,5 +1,5 @@
 {
-  "name": "mquery",
+  "name": "@edenjs/mquery",
   "version": "3.2.0",
   "description": "Expressive query building for MongoDB",
   "main": "lib/mquery.js",
@@ -16,17 +16,17 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "bluebird": "3.5.1",
-    "debug": "3.1.0",
+    "bluebird": "^3.5.4",
+    "debug": "^4.1.1",
     "regexp-clone": "0.0.1",
-    "sliced": "1.0.1",
-    "safe-buffer": "5.1.2"
+    "safe-buffer": "5.1.2",
+    "sliced": "1.0.1"
   },
   "devDependencies": {
-    "eslint": "^4.14.0",
+    "eslint": "^5.16.0",
     "istanbul": "^0.4.5",
-    "mocha": "4.1.0",
-    "mongodb": "3.1.1"
+    "mocha": "^6.1.4",
+    "mongodb": "^3.2.3"
   },
   "bugs": {
     "url": "https://github.com/aheckmann/mquery/issues/new"
