@@ -18,7 +18,7 @@
   "dependencies": {
     "bluebird": "^3.5.4",
     "debug": "^4.1.1",
-    "regexp-clone": "0.0.1",
+    "regexp-clone": "1.0.0",
     "safe-buffer": "5.1.2",
     "sliced": "1.0.1"
   },
