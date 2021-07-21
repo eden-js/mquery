@@ -26,7 +26,7 @@
     "eslint": "^5.16.0",
     "istanbul": "^0.4.5",
     "mocha": "^6.1.4",
-    "mongodb": "^3.2.3"
+    "mongodb": "^4.0.1"
   },
   "bugs": {
     "url": "https://github.com/aheckmann/mquery/issues/new"
